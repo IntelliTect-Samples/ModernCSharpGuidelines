@@ -30,7 +30,7 @@ public class WorkerQueue
         if (Actions.Dequeue() is { } action) 
         {
             
-            Task.Factory.StartNew(() => action());
+            Task.Factory.StartNew(() => action.Invoke());
         }
     }
 }

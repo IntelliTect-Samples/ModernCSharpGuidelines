@@ -10,11 +10,12 @@ public class FinglePrintTests
     [Fact]
     public void FingerPrintCreatedByCouldBeNull()
     {
-        Assert.Null(new FingerPrint(null!).CreatedBy);
+
+        Assert.Null(new FingerPrint().CreatedBy);
         Assert.Null(new FingerPrint(null!) { CreatedBy = null!}.CreatedBy);
 
         // Init properties cannot be assigned afer construction
-        // FingerPrint fingerPrint = new (null!);
+        //FingerPrint fingerPrint = new (null!);
         // fingerPrint.CreatedBy = null!;
     }
 

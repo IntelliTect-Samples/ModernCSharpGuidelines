@@ -11,7 +11,7 @@
 /// fb.com/MarkMichaelis
 /// @MarkMichaelis
 /// 
-/// NB:
+/// Note:
 /// Guidelines for nullability with .NET 6.0/C# 10.0
 /// FinglePrint because FingerPrint is hard to spell
 /// 
@@ -21,7 +21,7 @@
 /// 👎 AVOID putting the rope in the dirt.
 /// ⛔ DO NOT enter a slot canyon when there is a risk of a flood.
 /// 
-/// ⚖ DO use a firewall on gateway.
+/// ⚖ DO use a firewall on a gateway.
 /// 👍 CONSIDER turning on the firewall on all workstations.
 /// 👎 AVOID clicking on links when the source is unverifiable.
 /// ⛔ DO NOT download files from an untrusted source.

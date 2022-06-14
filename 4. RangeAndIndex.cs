@@ -10,6 +10,11 @@ namespace ModernCSharpGuidelines
         [Fact]
         public void SampleIndexOperatorFromEnd()
         {
+            int? test = null;
+            if(test == null)
+            {
+
+            }
             // GUIDELINE
             // ⚖ DO favor target type new over var when invoking constructors
             int[] array = new[] { 1, 2, 3, 4, 5, 42};

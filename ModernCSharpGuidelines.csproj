@@ -26,7 +26,7 @@
 		// GUIDELINES
 		// ❓ CONSIDER put all global usings in the same file (eg*.csproj, usings.cs, globalusings.cs)
 		-->
-		<Using Include="Xunit"/>
+		<Using Include="Xunit" />
 		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.11.0" />
 		<PackageReference Include="xunit" Version="2.4.1" />
 		<PackageReference Include="xunit.runner.visualstudio" Version="2.4.3">

@@ -8,9 +8,7 @@
 ///     @MarkMichaelis
 /// 
 /// SOURCE CODE
-///     https://Github.com/IntelliTect-Samples/CSharpNullability
-/// 
-/// Guidelines for nullability with .NET 6.0/C# 10.0
+///     https://github.com/IntelliTect-Samples/ModernCSharpGuidelines.
 /// 
 /// OTHER SESSIONS
 ///     An In-Depth Look at Programming With Nullability
